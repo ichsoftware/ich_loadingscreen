@@ -1,0 +1,42 @@
+{
+    "News": [
+		{
+			"title": "Yeni Haber",
+			"subtitle": "Şehirde kara işlerin döndüğü konuşulmakta.",
+			"description": "Siyahi hafif uzun boylu kısa saçlı bir adamın çiçek bahçesiyle uğraştığı duyuldu",
+			"image": "new.png"
+		}
+	],
+
+	"Authors": [
+		{
+			"name": "ich",
+			"rank": "Kurucu | Geliştirici",
+			"image": "1.jpg" 
+		}
+	],
+
+    "Music": [ 
+		{
+            "songname": "Spectre Giriş Şarkısı",
+            "owner": "stwon",
+            "path": "musics/3.mp3" 
+        },
+		{
+            "songname": "Bloody Mary",
+            "owner": "Lady Gaga",
+            "path": "musics/blop.mp3" 
+        },
+		{
+            "songname": "Da Dumla Dumlada - Lonut Cercel",
+            "owner": "Taner Yalçın",
+            "path": "musics/Dumla.mp3" 
+        },
+        {
+            "songname": "Ckay - Love Nwantiti (speed up)",
+            "owner": "Ckay",
+            "path": "musics/babylon.mp3" 
+        }
+    ]
+    
+}
