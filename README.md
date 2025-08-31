@@ -34,3 +34,12 @@
 No build tools required—just clone, configure, and start using.
 
 ---
+
+### 📦 Installation
+
+1. Clone or download the repository.
+2. Place the `ich_loadingscreen` folder in your `resources` directory.
+3. Add the following line to your `server.cfg`:
+
+```cfg
+ensure ich_loadingscreen
